@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ModMetaData>
+    <name>Plant Human Meat</name>
+    <author>Tiny Andy Dufresne</author>
+    <packageId>mannenen.plant.humanmeat</packageId>
+    <description>Forcibly forked from LingLuo's Plant Human</description>
+    <supportedVersions>
+        <li>1.1</li>
+    </supportedVersions>
+</ModMetaData>
