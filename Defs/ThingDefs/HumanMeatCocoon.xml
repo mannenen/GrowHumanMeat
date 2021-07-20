@@ -20,10 +20,10 @@
     </ingestible>
     <plant>
       <dieIfLeafless>true</dieIfLeafless>
-      <maxMeshCount>4</maxMeshCount>
+      <maxMeshCount>1</maxMeshCount>
       <harvestTag>Standard</harvestTag>
       <harvestedThingDef>Meat_Human</harvestedThingDef>
-      <harvestYield>70</harvestYield>
+      <harvestYield>10</harvestYield>
       <sowTags>
         <li>Ground</li>
         <li>Hydroponic</li>
